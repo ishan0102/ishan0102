@@ -3,7 +3,7 @@
 
 I'm studying Computer Engineering and Business @ UT Austin. I interned at AAK Tele-Science this summer where I created dynamic web pages using Flask and a desktop web app using Electron.
 
-I'm currently working on [Day in Review](https://github.com/DayInReview/email-summarizer) with @JimothyGreene - our take on a reimagined productivity suite. I've worked on some other cool projects like a [real estate analyzer](https://github.com/ishan0102/collin-county-real-estate) that uses Pandas and [runkeeper](https://github.com/ishan0102/runkeeper), my attempt at a GUI running app that tracks your stats.
+I'm currently working on [Day in Review](https://github.com/DayInReview/email-summarizer) with [Rishi Ponnekanti](https://github.com/jimothygreene) - our take on a reimagined productivity suite. I've worked on some other cool projects like a [real estate analyzer](https://github.com/ishan0102/collin-county-real-estate) that uses Pandas and [runkeeper](https://github.com/ishan0102/runkeeper), my attempt at a GUI running app that tracks your stats.
 
 ---
 

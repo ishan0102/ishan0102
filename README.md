@@ -1,4 +1,9 @@
-### Hi there 👋
+# Hi, I'm Ishan. 
+![Profile View Counter](https://komarev.com/ghpvc/?username=ishan0102&color=blue&label=Profile+Views)
+
+### I'm studying Computer Engineering and Business @ UT Austin.
+
+![Ishan's GitHub Contributions](https://github-readme-stats.vercel.app/api?username=ishan0102&show_icons=true&hide_border=true&count_private=true&hide=stars)
 
 <!--
 **ishan0102/ishan0102** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -5,7 +5,7 @@ I'm a junior at UT Austin studying Computer Engineering, Math, and Business. Cur
 
 I'm a self-learner and enjoy picking up new skills as I explore machine learning, backend software engineering, web development, and product design. I've worked on problems related to productivity, language summarization, and tutoring through a variety of side projects. I built [Day in Review](https://github.com/DayInReview/email-summarizer) with [Rishi Ponnekanti](https://github.com/JimothyGreene) last summer to tackle email summarization and we're working on expanding it to an AI-powered productivity suite. 
 
-Check out my website at [ishanshah.me](www.ishanshah.me)! 
+Check out my website at [ishanshah.me](https://www.ishanshah.me)! 
 
 ---
 

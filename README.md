@@ -1,6 +1,8 @@
-# Hi, I'm Ishan! 
-I love machine learning and tinkering. I'm currently building [Minion AI](https://minion.ai/) led by [Alex Graveley](https://alexgraveley.com/) and advised by [Nat Friedman](https://nat.org/). I also study computer engineering and math at UT Austin and research large language models with [Kyle Mahowald](https://mahowak.github.io/).
+# Hi, I'm Ishan!
+I'm currently researching large language models with [Kyle Mahowald](https://mahowak.github.io/).
 
-I've worked on machine learning infrastructure as a founding engineer at [Unreal Speech](https://unrealspeech.com/) and through internships at YouTube and Capital One. Through college, I've taught a couple hundred students, interviewed people for my school newspaper, and trained a model to play pictionary.
-
-This semester, I'm getting good at golf and volleyball (shoutout UT PE classes!), trying every speakeasy in Austin, and learning how to cook things besides pasta.
+In the past, I've worked on:
+- LLMs for web browsing at [Minion AI](https://github.com/minionai)
+- Text-to-speech model evaluation at [Unreal Speech](https://github.com/unrealspeech)
+- Configurable throttling for video classifications at [YouTube](https://github.com/youtube)
+- Fraud detection from customer reviews at [Capital One](https://github.com/capitalone)

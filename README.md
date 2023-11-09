@@ -1,5 +1,5 @@
 # Hey, I'm Ishan!
-I'm a software engineer in New York and do LLM research with [Kyle Mahowald](https://mahowak.github.io/) in my free time. I recently graduated from UT Austin with a B.S. in Electrical and Computer Engineering and a B.S.A. in Mathematics. In the past, I've worked on:
+I'm a software engineer in New York and do LLM research with [Kyle Mahowald](https://mahowak.github.io/) in my free time. I recently graduated from UT Austin with a B.S. in Electrical and Computer Engineering and a B.S.A. in Mathematics.
 
 In the past, I've worked on:
 - LLMs for web browsing at [Minion AI](https://github.com/minionai)

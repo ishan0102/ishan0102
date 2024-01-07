@@ -1,7 +1,8 @@
 # Hey, I'm Ishan!
-I'm a software engineer in New York and build things with LLMs in my free time. I recently graduated from UT Austin with degrees in Electrical and Computer Engineering and Mathematics.
+I'm a founding engineer at a stealth startup (YC W24) and like building with LLMs in my free time. I graduated from UT Austin with degrees in Computer Engineering and Mathematics and now I live in NYC.
 
 In the past, I've worked on:
+- Distributed systems for earnings reports at [Bloomberg](https://www.bloomberg.com/company/)
 - Interpretability research with [Kyle Mahowald](https://mahowak.github.io)
 - LLMs for web browsing at [Minion AI](https://github.com/minionai)
 - Text-to-speech model evaluation at [Unreal Speech](https://github.com/unrealspeech)

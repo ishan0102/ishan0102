@@ -1,5 +1,5 @@
 # Hey, I'm Ishan!
-I'm a founding engineer at a stealth startup (YC W24) and like building with LLMs in my free time. I graduated from UT Austin with degrees in Computer Engineering and Mathematics and now I live in NYC.
+I'm a founding engineer at [Happenstance](https://www.ycombinator.com/companies/happenstance) (YC W24) and like building with LLMs in my free time. I graduated from UT Austin with degrees in Computer Engineering and Mathematics and now I live in NYC.
 
 In the past, I've worked on:
 - Distributed systems for earnings reports at [Bloomberg](https://www.bloomberg.com/company/)

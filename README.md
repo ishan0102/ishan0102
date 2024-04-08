@@ -1,4 +1,28 @@
 # Hey, I'm Ishan!
+
+<div style="text-align: center;">
+<pre style="display: inline-block; text-align: left;">
+               ,----------------,              ,---------,
+          ,-----------------------,          ,"        ,"|
+        ,"                      ,"|        ,"        ,"  |
+       +-----------------------+  |      ,"        ,"    |
+       |  .-----------------.  |  |     +---------+      |
+       |  |                 |  |  |     | -==----'|      |
+       |  | ishan0102:~$    |  |  |     |         |      |
+       |  |                 |  |  |/----|`---=    |      |
+       |  |                 |  |  |   ,/|==== ooo |      ;
+       |  |                 |  |  |  // |(((( [33]|    ,"
+       |  `-----------------'  |," .;'| |((((     |  ,"
+       +-----------------------+  ;;  | |         |,"
+          /_)______________(_/  //'   | +---------+
+     ___________________________/___  `,
+    /  oooooooooooooooo  .o.  oooo /,   \,"-----------
+   / ==ooooooooooooooo==.o.  ooo= //   ,`\--{)B     ,"
+  /_==__==========__==_ooo__ooo=_/'   /___________,"
+  `-----------------------------'
+</pre>
+</div>
+
 I'm a founding engineer at [Happenstance](https://www.ycombinator.com/companies/happenstance) (YC W24) and like building with LLMs in my free time. I graduated from UT Austin with degrees in Computer Engineering and Mathematics and now I live in NYC.
 
 In the past, I've worked on:
